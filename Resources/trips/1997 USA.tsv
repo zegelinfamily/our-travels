@@ -1,0 +1,27 @@
+Location	LatLong	Curvature	Stop	Mode	Notes
+Canberra	"-35.355434, -210.93395"	0.3	2	0	
+Sydney	"-33.939914, -208.824713"	0.1	2	1	
+Auckland	"-37.008110, -185.214953"	0.05	2	1	
+Los Angeles	"33.943476, -118.409313"	0.3	0	0	
+San Juan Capistrano	"33.500354, -117.662747"	0.3	1	0	
+Los Angeles	"33.943476, -118.409313"	-0.3	3	0	
+Solvang	"34.594689, -120.142658"	-0.3	1	0	
+Hearst Castle	"35.685593, -121.170212"	-0.3	1	0	
+San Jose	"37.337343, -121.897069"	0.2	0	0	
+Yosemite National Park	"37.856094, -119.556891"	0.3	1	0	
+Mono Lake	"37.964443, -119.114692"	-0.3	1	0	
+Death Valley National Park	"36.516135, -117.095850"	-0.3	1	0	
+Las Vegas	"36.168798, -115.167749"	0.3	0	0	
+Valley of Fire National Park	"36.449885, -114.522302"	0.3	1	0	
+Zion National Park	"37.311076, -113.033655"	0.3	1	0	
+Bryce Canyon National Park	"37.593461, -112.180975"	-0.3	1	0	
+Kodachrome Basin State Park	"37.517893, -111.994473"	0.3	1	0	
+Capital Reef National Park	"38.382976, -111.275727"	0.3	1	0	
+Natural Bridges National Monument	"37.601537, -110.008742"	0.3	1	0	
+Monument Valley	"37.002636, -110.174621"	0.3	1	0	
+Grand Canyon North Rim	"36.250449, -112.074569"	0.2	1	0	
+Las Vegas	"36.168798, -115.167749"	0.3	2	0	
+Los Angeles	"33.943476, -118.409313"	0.05	2	1	
+Auckland	"-37.008110, -185.214953"	0.1	2	1	
+Sydney	"-33.939914, -208.824713"	0.3	2	1	
+Canberra	"-35.355434, -210.93395"	0.0	2	0	

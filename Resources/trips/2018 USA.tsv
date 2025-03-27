@@ -1,0 +1,52 @@
+Location	LatLong	Curvature	Stop	Mode	Notes
+Canberra	"-35.355434, -210.93395"	0.3	2	0	
+Sydney	"-33.939914, -208.824713"	0.1	2	1	
+Auckland	"-37.008110, -185.214953"	0.05	2	1	
+San Francisco	37.781977, -122.449340	0.3	2	0	
+San Jose	37.337343, -121.897069	0.3	0	0	
+San Francisco	37.781977, -122.449340	0.1	3	1	
+Denver	39.739447, -104.993135	-0.3	2	0	
+Cheyenne	41.185889, -104.852040	-0.3	1	0	
+Scottsbluff	41.866515, -103.659326	0.3	1	0	
+Chimney Rock	41.704472, -103.351694	-0.3	1	0	
+Alliance	42.093202, -102.896132	-0.3	1	0	Carhenge
+Rapid City	44.082262, -103.233249	0.2	0	0	
+Wall	43.992544, -102.241301	0.3	1	0	Wall Drug Store
+Badlands National Park	43.861064, -102.350387	0.2	1	0	
+Rapid City	44.082262, -103.233249	0.32	3	0	
+Mount Rushmore	43.878975, -103.458981	0.3	1	0	
+Iron Mountain Road	43.861789, -103.439399	-0.35	1	0	Scenic Byway 16A
+Rapid City	44.082262, -103.233249	-0.3	3	0	
+Sturgis	44.411294, -103.513326	0.3	1	0	
+Deadwood	44.375345, -103.739559	0.3	1	0	
+Lead	44.350757, -103.767167	0.3	1	0	Homestake Mine
+Spearfish Canyon	44.419970, -103.895531	-0.3	1	0	
+Rapid City	44.082262, -103.233249	-0.2	3	0	
+Keystone	43.895538, -103.418822	-0.3	1	0	Helicopter Ride to 'The Needles'
+Sylvan Lake	43.845431, -103.563708	0.3	1	0	
+Needles Highway	43.841469, -103.544686	-0.3	1	0	Needles Eye Tunnel
+Hot Springs	43.423738, -103.484142	-0.3	1	0	Mammoth Site
+Rapid City	44.082262, -103.233249	0.25	3	0	
+Devils Tower National Monument	44.590233, -104.714692	0.2	1	0	
+Buffalo	44.349336, -106.701245	0.3	2	0	
+Burgess Junction	44.772631, -107.516813	0.2	1	0	US 14A Scenic Byway
+Red Lodge	45.184516, -109.247983	0.3	2	0	
+Beartooth Highway	44.939122, -109.613115	-0.2	1	0	
+Yellowstone National Park	44.441268, -110.595820	-0.2	0	0	
+Cody	44.528026, -109.059539	0.3	2	0	
+Shoshoni	43.235772, -108.109829	0.3	2	0	
+Laramie	41.312726, -105.600561	0.3	2	0	
+Boulder	40.015881, -105.262538	0.3	0	0	
+Red Rocks Ampitheatre	39.665467, -105.205406	0.3	1	0	
+Boulder	40.015881, -105.262538	0.3	3	0	
+Georgetown	39.706002, -105.698013	0.3	1	0	Georgetown Loop Railroad
+Boulder	40.015881, -105.262538	0.3	3	0	
+Golden	39.771739, -105.195463	0.3	1	0	Coors factory tour and Colorado Railway Museum
+Boulder	40.015881, -105.262538	0.3	3	0	
+Denver	39.739447, -104.993135	0.1	3	1	
+San Francisco	37.781977, -122.449340	0.3	3	0	
+San Jose	37.337343, -121.897069	0.3	0	0	
+San Francisco	37.781977, -122.449340	0.05	2	1	
+Auckland	"-37.008110, -185.214953"	0.1	2	1	
+Sydney	"-33.939914, -208.824713"	0.3	2	1	
+Canberra	"-35.355434, -210.93395"	0.0	2	0	

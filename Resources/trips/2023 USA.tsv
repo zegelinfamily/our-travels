@@ -1,0 +1,40 @@
+Location	LatLong	Curvature	Stop	Mode	Notes
+Canberra	"-35.355434, -210.93395"	0.3	2	0	
+Sydney	"-33.939914, -208.824713"	-0.05	2	1	
+Dallas/Fort Worth	"32.888909, -97.042955"	0.2	2	1	
+Miami	"25.794858, -80.279917"	0.3	2	3	
+Miami Beach	"25.792231, -80.138125"	0.3	0	0	Vizcaya Museum & Gardens
+Homestead	"25.469023, -80.478008"	0.3	0	0	
+Key Largo	"25.093780, -80.442559"	0.3	1	0	
+Marathon	"24.726036, -81.045263"	0.2	1	0	Seven Mile Bridge
+Key West	"24.556901, -81.782033"	-0.25	1	0	Hemmingways’s Home
+Homestead	"25.469023, -80.478008"	0.2	3	0	
+Lake Okeechobee	"26.821198, -80.666662"	0.2	2	0	
+Titusville	"28.612256, -80.806558"	0.25	0	0	Kennedy Space Center
+Homestead	"25.469023, -80.478008"	0.3	3	0	
+Everglades	"25.395463, -80.592978"	0.3	1	0	
+Homestead	"25.469023, -80.478008"	0.3	3	0	
+Shark Valley	"25.760454, -80.766978"	0.2	1	0	
+Naples	"26.141016, -81.798670"	-0.3	1	0	Baker Museum and Hayes Hall Galleries - Magritte Exhibition
+Fort Meyers	"26.642084, -81.871942"	-0.3	1	0	Edison and Ford Winter Estates
+Sarasota	"27.336402, -82.531390"	-0.3	1	0	Ringling Museum
+St. Petersburg	"27.769009, -82.640943"	0.2	0	0	Dali Museum and Chihuli Gallery
+Orlando	"28.538771, -81.382493"	0.3	1	0	Visit Andrew and Fer
+Winter Park	"28.605096, -81.351551"	0.3	1	0	Morse Museum
+Brunswick	"31.150247, -81.492882"	0.4	2	0	Historic Downtown
+Charleston	"32.775710, -79.932028"	0.2	0	0	Historic District
+Magnolia Plantation	"32.878664, -80.088980"	0.2	1	0	Plantation and Gardens
+Charleston	"32.775710, -79.932028"	0.2	3	0	
+Middleton Place	"32.899998, -80.140478"	0.2	1	0	Plantation
+Charleston	"32.775710, -79.932028"	0.2	3	0	
+Beaufort	"32.431436, -80.670429"	0.3	1	0	Antebellum Homes
+Savannah	"32.080934, -81.091061"	0.1	0	0	
+Fernandina Beach	"30.671369, -81.463807"	-0.3	1	0	
+St. Augustine	"29.901867, -81.312107"	-0.3	1	0	
+Melbourne	"28.231737, -80.71675"	-0.3	0	0	Falcon 9
+Palm Beach	"26.720658, -80.058294"	0.3	1	0	
+Lake Okeechobee	"26.821198, -80.666662"	0.2	3	0	
+Miami	"25.794858, -80.279917"	-0.35	2	1	
+Los Angeles	"33.943470, -118.414216"	-0.05	2	1	
+Sydney	"-33.939914, -208.824713"	0.3	2	1	
+Canberra	"-35.355434, -210.93395"	0.0	2	0	

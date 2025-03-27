@@ -1,0 +1,37 @@
+Location	LatLong	Curvature	Stop	Mode	Notes
+Canberra	"-35.355434, -210.93395"	0.3	2	0	
+Sydney	"-33.939914, -208.824713"	0.1	2	1	
+Auckland	"-37.008110, -185.214953"	0.05	2	1	
+San Francisco	37.621355, -122.378955	0.3	2	0	
+San Jose	37.337343, -121.897069	-0.3	0	0	
+Bodega Bay	38.329055, -123.043955	0.2	1	0	
+Avenue of the Giants	40.258631, -123.837656	0.3	1	0	Giant Redwoods
+Loleta	40.641725, -124.226190	0.3	1	0	Cheese Factory
+Eureka	40.802195, -124.164245	-0.3	1	0	Amazing Wooden Houses
+Crescent City	41.756045, -124.202513	-0.3	1	0	
+Portland	45.522454, -122.678799	0.2	0	0	
+Columbia River Gorge	45.709013, -121.620912	0.3	1	0	Latourell, Bridle Veil and Multnomah Falls
+Portland	45.522454, -122.678799	0.2	3	0	
+Mount St Helens	46.191387, -122.195380	0.3	1	0	
+Snoqualmie Pass	47.392630, -121.399669	0.35	2	0	
+Everett	47.979066, -122.202564	0.3	0	0	
+Seattle	47.604579, -122.335911	0.3	1	0	
+Everett	47.979066, -122.202564	0.3	3	0	
+Camano Island	48.187278, -122.508564	0.3	1	0	
+Everett	47.979066, -122.202564	0.3	3	0	
+Tacoma	47.253232, -122.444255	0.3	1	0	Chihuly Glass
+Everett	47.979066, -122.202564	0.3	3	0	
+Snoqualmie Falls	47.541807, -121.837831	-0.1	1	0	
+Grand Coulee Dam	47.956553, -118.980534	0.2	1	0	
+Yellowstone National Park	44.424045, -110.588454	0.3	0	0	
+Grand Tetons	43.786463, -110.687256	0.2	1	0	
+EBR 1	43.511598, -113.012228	-0.3	1	0	
+Craters of the Moon	43.416697, -113.516746	-0.3	1	0	
+Twin Falls	42.563369, -114.461377	0.3	2	0	
+Reno	39.529254, -119.813769	0.3	2	0	
+Carson City	39.165417, -119.769136	0.3	1	0	
+Sacramento	38.580846, -121.495099	0.3	1	0	Yeah! Jelly Belly Factory
+San Francisco	37.621355, -122.378955	0.05	2	1	
+Auckland	"-37.008110, -185.214953"	0.1	2	1	
+Sydney	"-33.939914, -208.824713"	0.3	2	1	
+Canberra	"-35.355434, -210.93395"	0.0	2	0	

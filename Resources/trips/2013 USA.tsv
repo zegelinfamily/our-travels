@@ -1,0 +1,43 @@
+Location	LatLong	Curvature	Stop	Mode	Notes
+Canberra	"-35.355434, -210.93395"	0.3	2	0	
+Sydney	"-33.939914, -208.824713"	0.1	2	1	
+Auckland	"-37.008110, -185.214953"	0.05	2	1	
+San Francisco	37.621355, -122.378955	0.3	2	0	
+San Jose	37.337343, -121.897069	0.1	0	1	
+Las Vegas	36.082756, -115.137928	-0.3	2	0	
+Tucson	32.220917, -110.930504	0.3	0	0	
+Sahuarita	31.957971, -110.949730	0.3	1	0	
+Tucson	32.220917, -110.930504	0.2	3	0	
+Gila Cliff Dwellings	33.227344, -108.271661	0.3	1	0	
+City of Rocks State Park	32.590014, -107.975642	0.3	1	0	
+Las Cruces	32.319916, -106.764691	0.3	1	0	
+White Sands Missile Range	32.382049, -106.489331	0.3	1	0	
+White Sands	32.780881, -106.185270	0.3	1	0	
+Alamogordo	32.899433, -105.958692	0.3	1	0	
+National Solar Observatory	32.790245, -105.818413	0.3	1	0	
+Carlsbad	32.150241, -104.558832	0.3	1	0	
+Roswell	33.394861, -104.522921	0.2	1	0	
+Trinity Historical Marker	33.886606, -106.670953	0.2	1	0	
+Very Large Array	34.078367, -107.618074	0.3	1	0	
+Albuquerque	35.085701, -106.607135	0.3	1	0	
+Santa Fe	35.687771, -105.938749	0.3	0	0	
+Taos	36.407688, -105.572769	0.3	1	0	
+Santa Fe	35.687771, -105.938749	0.3	3	0	
+Los Alamos	35.879961, -106.303602	0.3	1	0	
+Aztec Ruins National Monument	36.834555, -108.000329	0.3	1	0	
+Mesa Verde National Park	37.184329, -108.488651	0.3	1	0	
+Four Corners Monument	36.998997, -109.044906	0.3	1	0	
+Canyon de Chelly	36.133689, -109.469444	0.3	1	0	
+Petrified Forest National Park	35.066141, -109.783113	0.3	1	0	
+Winslow	35.024075, -110.698336	0.3	1	0	
+Meteor Crater	35.027518, -111.021855	0.3	1	0	
+Flagstaff	35.198303, -111.652593	0.3	0	0	
+Grand Canyon National Park	36.060075, -112.118490	0.3	1	0	
+Flagstaff	35.198303, -111.652593	0.2	3	0	
+Hoover Dam	36.016204, -114.737572	0.3	1	0	
+Las Vegas	36.082756, -115.137928	0.1	2	1	
+San Jose	37.337343, -121.897069	0.3	3	0	
+San Francisco	37.621355, -122.378955	0.05	3	1	
+Auckland	"-37.008110, -185.214953"	0.1	3	1	
+Sydney	"-33.939914, -208.824713"	0.3	3	1	
+Canberra	"-35.355434, -210.93395"	0.0	3	0	

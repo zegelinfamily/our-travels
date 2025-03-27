@@ -1,0 +1,44 @@
+Location	LatLong	Curvature	Stop	Mode	Notes
+Canberra	"-35.355434, -210.93395"	0.3	2	0	
+Sydney	"-33.939914, -208.824713"	0.1	2	1	
+Auckland	"-37.008110, -185.214953"	0.05	2	1	
+Los Angeles	"33.943476,-118.409313"	0.3	2	1	
+San Jose	"37.337343,-121.897069"	0.05	0	1	
+New York City	"40.712332,-74.009596"	0.3	0	0	
+New Canaan	"41.146999, -73.494631"	0.3	1	0	Philip Johnson Glass House
+New Haven	"41.308372, -72.932015"	0.3	1	0	Yale
+Hartford	"41.764274, -72.685752"	0.3	1	0	Mark Twains House
+Submarine Force Museum	"41.387232, -72.086145"	0.3	1	0	USS Nautilus
+Mystic	"41.361897, -71.963357"	0.3	1	0	
+Newport	"41.490220, -71.313096"	-0.3	0	0	Mansions
+Provincetown	"42.059194, -70.178815"	0.3	1	0	
+Boston	"42.360809, -71.061279"	0.3	0	0	
+Salem	"42.519961, -70.897879"	0.3	1	0	
+Kennebunkport	"43.362160, -70.477655"	0.3	1	0	
+Conway	"43.979271, -71.118794"	0.3	0	0	
+Lincoln	"44.030165, -71.686595"	0.3	1	0	
+Cannon Mountain Aerial Tramway	"44.170696, -71.689685"	0.3	1	0	
+Barre	"44.176529, -72.469120"	0.3	1	0	Rock of Ages Quarry
+Burlington	"44.476297, -73.209654"	0.3	1	0	Vermont Teddy Bears
+Waterbury	"44.352953, -72.740379"	0.3	1	0	"Ben and Jerries, Cider Factory"
+Stowe	"44.465391, -72.685795"	0.3	1	0	
+Warren	"44.111924, -72.857868"	0.3	1	0	
+Granville	"43.985094, -72.847800"	0.3	1	0	Waterfall
+Weston	"43.291037, -72.792976"	0.3	1	0	
+Lincoln Family Home	"43.140376, -73.081268"	-0.3	1	0	
+Dorset	"43.254630, -73.098778"	-0.2	1	0	
+Hancock Shaker Village	"42.430856, -73.340134"	0.3	1	0	
+Cohoes	"42.774310, -73.699908"	0.3	1	0	Cohoes Falls
+Howes Caverns	"42.696356, -74.398478"	-0.2	1	0	
+Lockport	"43.168855, -78.696753"	0.3	0	0	
+Niagara Falls	"43.082953, -79.074402"	0.3	1	0	
+Lockport	"43.168855, -78.696753"	-0.3	3	0	
+Letchworth State Park	"42.584514, -78.043090"	0.3	1	0	
+Corning	"42.149698, -77.054153"	0.3	1	0	Corning Glass Museum
+Bethel Woods	"41.696632, -74.877417"	0.3	1	0	Woodstock
+New York City	"40.712332, -74.009596"	0.05	2	1	
+San Jose	"37.337343, -121.897069"	0.3	2	1	
+Los Angeles	"33.943476, -118.409313"	0.05	2	1	
+Auckland	"-37.008110, -185.214953"	0.1	2	1	
+Sydney	"-33.939914, -208.824713"	0.3	2	1	
+Canberra	"-35.355434, -210.93395"	0.0	2	0	

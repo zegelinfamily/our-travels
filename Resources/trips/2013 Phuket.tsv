@@ -1,0 +1,10 @@
+Location	LatLong	Curvature	Stop	Mode	Notes
+Canberra	-35.355434, 149.066050	0.3	2	0	
+Sydney	-33.939914, 151.175287	0.05	2	1	
+Kuala Lumpur	3.141743, 101.678614	0.1	2	1	
+Phuket	7.883361, 98.393287	0.1	0	1	
+Kuala Lumpur	3.141743, 101.678614	0.3	0	0	
+Malacca	2.194996, 102.250538	0.3	0	0	
+Kuala Lumpur	3.141743, 101.678614	0.05	3	1	
+Sydney	-33.939914, 151.175287	0.3	2	0	
+Canberra	-35.355434, 149.066050	0.0	2	0	

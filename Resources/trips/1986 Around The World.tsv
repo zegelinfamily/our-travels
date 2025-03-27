@@ -1,0 +1,148 @@
+Location	LatLong	Curvature	Stop	Mode	Notes
+Canberra	"-35.355434, 149.066050"	0.3	2	0	
+Sydney	"-33.939914, 151.175287"	0.1	2	1	
+Honolulu	"21.306807, 202.142407"	0.2	0	1	
+Pearl Harbor	"21.353417, 202.020094"	0.2	1	0	
+Honolulu	"21.306807, 202.142407"	0.2	0	1	
+Hanauma Bay	"21.269659, 202.306859"	0.3	1	0	
+Halona Blow Hole	"21.282662, 202.322852"	-0.3	1	0	
+Pali Lookout	"21.365440, 202.203973"	-0.3	1	0	
+Kaneohe Bay	"21.459257, 202.158128"	-0.3	1	0	Chinamans Hat
+Waimea Bay	"21.640717, 201.936856"	-0.3	1	0	
+Dole Plantation	"21.526985, 201.962434"	-0.3	1	0	
+Honolulu	"21.306807, 202.142407"	-0.3	3	100	
+Honolulu	"21.306807, -157.857593"	0.1	2	1	
+Los Angeles	"33.943476, -118.409313"	0.3	0	3	
+San Jose	"37.337343, -121.897069"	0.3	0	0	
+Carmel-By-The-Sea	"36.550791, -121.929040"	0.3	1	0	
+San Jose	"37.337343, -121.897069"	-0.2	3	0	
+Yosemite National Park	"37.740884, -119.598259"	0.3	1	0	
+General Grant Grove	"36.747023, -118.977774"	0.2	1	0	Giant Redwoods
+San Jose	"37.337343, -121.897069"	-0.45	3	0	
+Napa Valley	"38.296430, -122.289501"	0.3	1	0	
+San Jose	"37.337343, -121.897069"	0.2	3	2	
+San Francisco	"37.774509, -122.423569"	0.3	1	4	
+Sausalito	"37.859092, -122.484944"	0.3	1	4	
+San Francisco	"37.774509, -122.423569"	0.2	1	2	
+San Jose	"37.337343, -121.897069"	0.1	3	1	
+New York City	"40.712332, -74.009596"	0.1	0	1	
+London	"51.468053, -0.081152"	0.3	0	3	
+Paris	"48.861477, 2.346826"	0.3	0	5	
+Chartres	"48.443779, 1.488663"	0.3	1	5	Chartres Cathedral - half-timbered houses
+Château de Chambord	"47.616112, 1.517197"	-0.3	1	5	
+Chateau de Fougeres-sur-Bievre	"48.349553, -1.210353"	0.3	1	5	
+Mont Saint-Michel	"48.636031, -1.511125"	0.2	1	5	
+Cape Frehel	"48.630788, -2.366664"	0.3	1	5	
+Ploumanac'h	"48.837458, -3.484099"	0.3	1	5	Lighthouse
+Trégastel	"48.817002, -3.514733"	0.3	1	5	Dolmen (burial chamber)
+Morlaix	"48.580548, -3.829748"	0.3	1	5	Viaduct
+Saint-Thégonnec	"48.521442, -3.945489"	0.3	1	5	Parish Close (Calvary and Triumphal Arch)
+Guimiliau	"48.487549, -3.999391"	0.3	1	5	Parish Close (Calvary)
+Carnac	"47.592507, -3.082877"	0.3	1	5	Menhir Line
+Grande Brière	"47.373964, -2.232152"	0.3	1	5	Marsh
+Château de Serrant	"47.414663, -0.750882"	0.3	1	5	
+Château de Angers	"47.477817, -0.562741"	0.3	1	5	
+La Fosse-de-Tigné	"47.182387, -0.427973"	0.3	1	5	Troglodyte Homes
+Château de Saumur	"47.257025, -0.072436"	0.3	1	5	
+Château de Chinon	"47.164125, 0.235015"	0.3	1	5	
+Château de Azay-le-Rideau	"47.258990, 0.465859"	0.3	1	5	
+Château de Villandry	"47.339853, 0.514272"	0.3	1	5	
+Château d'Amboise	"47.412997, 0.984326"	0.3	1	5	Also Château du Clos Lucé
+Château de Chenonceau	"47.324870, 1.070279"	0.3	1	5	
+Blois	"47.585364, 1.330556"	0.3	1	5	Château de Blois & Town
+Sarlat-la-Canéda	"44.891052, 1.217083"	0.3	1	5	
+La Roque-Gageac	"44.825009, 1.184754"	0.3	1	5	Stone Houses
+Grottes de Lacave	"44.843693, 1.556891"	0.3	1	5	
+Rocamadour	"44.798580, 1.617732"	0.3	1	5	
+Najac	"44.218457, 1.977708"	0.3	1	5	Old Town
+Albi	"43.927870, 2.147014"	0.3	1	5	Cathedral and Bridge
+Toulouse	"43.655683, 1.422157"	0.3	1	5	
+Lourdes	"43.097120, -0.040365"	0.3	1	5	
+Loarre Castle	"42.322151, -0.633627"	0.2	1	5	
+Burgos	"42.355015, -3.577008"	-0.3	1	5	
+Salamanca	"40.988754, -5.669638"	0.3	1	5	University, Cathedral, Plaza Mayor & Monastery
+Avila	"40.657427, -4.704567"	0.3	1	5	
+Segovia	"40.941458, -4.120574"	0.3	1	5	Alcazar and Roman Aqueduct
+Madrid	"40.432972, -3.710795"	0.3	0	5	
+Toledo	"39.855605, -4.010734"	0.3	1	5	
+Tembleque	"39.693917, -3.505368"	0.3	1	5	Plaza Mayor
+Consuegra	"39.461573, -3.613156"	0.3	1	5	Windmills
+Almagro	"38.891131, -3.727370"	0.3	1	5	Plaza Mayor
+Córdoba	"37.886338, -4.747961"	0.3	1	5	Alcazar and Mosque
+Seville	"37.389127, -5.987777"	0.3	1	5	
+Ronda	"36.750388, -5.169265"	0.3	1	5	Hanging Houses and Bridge
+Marbella	"36.507930, -4.897353"	0.3	1	5	Old Town
+Málaga	"36.721256, -4.421266"	0.3	1	5	
+Torremolinos	"36.622881, -4.507097"	0.3	1	5	
+Nerja	"36.756926, -3.874955"	0.3	1	5	Nerja Caves
+Granada	"37.177343, -3.598050"	0.2	1	5	
+Benidorm	"38.545569, -0.109462"	0.3	1	5	
+Peniscola	"40.344014, 0.395909"	0.3	1	5	
+Sitges	"41.219903, 1.830298"	0.3	1	5	Beach Resort
+Barcelona	"41.372388, 2.168075"	0.3	1	5	
+Tossa de Mar	"41.724982, 2.929895"	0.3	1	5	The Old Town
+Cadaqués	"42.293441, 3.265405"	0.3	1	5	
+Figueres	"42.270113, 2.963108"	0.4	1	5	Dali Museum
+Orange	"44.131876, 4.808811"	0.3	1	5	
+Avignon	"43.950236, 4.798207"	0.3	1	5	St Benezet Bridge and Palace of the Popes
+Arles	"43.672758, 4.627919"	-0.3	1	5	Amphitheatre
+Saint-Tropez	"43.266125, 6.643910"	0.3	1	5	
+Cannes	"43.545481, 7.022938"	0.3	1	5	
+Nice	"43.709471, 7.260059"	0.3	0	5	
+Villefranche-sur-Mer	"43.704011, 7.311557"	-0.2	1	5	
+Grasse	"43.660362, 6.926112"	0.3	1	5	
+Antibes	"43.579786, 7.124790"	0.3	1	5	
+Nice	"43.709471, 7.260059"	0.3	3	5	
+Eze	"43.726027, 7.363797"	0.3	1	5	
+Nice	"43.709471, 7.260059"	-0.2	3	5	
+Sisteron	"44.196553, 5.957547"	0.2	1	5	
+Lausanne	"46.531544, 6.626127"	0.2	0	0	
+Geneva	"46.197486, 6.133328"	0.2	1	0	
+Lausanne	"46.531544, 6.626127"	0.2	3	5	
+Bern	"46.947857, 7.449066"	0.2	1	5	
+Lausanne	"46.531544, 6.626127"	0.2	3	5	
+Gruyères	"46.579575, 7.058534"	0.2	1	5	
+Lausanne	"46.531544, 6.626127"	0.3	3	5	
+Fontainebleau	"48.404822, 2.697509"	0.3	1	5	
+Paris	"48.861477, 2.346826"	0.3	2	2	
+Florence	"43.769104, 11.258102"	-0.3	0	2	Visited Vic
+Ravenna	"44.421490, 12.202774"	0.3	1	2	
+Venice	"45.505693, 12.400379"	0.2	1	2	
+Trieste	"45.651796, 13.779163"	0.2	1	2	
+Thessaloniki	"40.641771, 22.942594"	0.2	1	3	
+Instanbul	"40.991622, 28.975729"	0.3	0	3	
+Bursa	"40.196334, 29.062435"	0.3	1	3	
+Izmir	"38.424879, 27.151998"	0.2	2	3	
+Parmukkale	"37.898254, 29.124815"	-0.2	1	3	
+Selçuk	"37.962220, 27.381527"	0.3	0	3	St John's Basilica
+Ephesus	"37.951091, 27.334047"	0.2	1	3	
+Selçuk	"37.962220, 27.381527"	0.3	3	3	
+Bodrum	"37.022850, 27.442553"	0.3	0	3	
+Marmaris	"36.862261, 28.267411"	0.3	1	4	
+Rhodes	"36.416272, 28.212912"	0.2	0	3	
+Lindos	"36.093078, 28.086653"	0.2	1	3	
+Rhodes	"36.416272, 28.212912"	0.2	3	4	
+Agios Nikolaos	"35.204378, 25.712317"	0.3	1	3	
+Heraklion	"35.343832, 25.145176"	0.3	0	3	
+Knossos	"35.297965, 25.163146"	0.3	1	3	
+Heraklion	"35.343832, 25.145176"	0.3	3	3	
+Phaistos	"35.051651, 24.815754"	0.3	1	3	Minoan Palace
+Heraklion	"35.343832, 25.145176"	0.3	3	4	
+Pireas	"37.944147, 23.647353"	0.2	2	4	
+Naxos	"37.100393, 25.377620"	0.3	0	4	
+Ios	"36.722671, 25.289729"	0.3	0	4	
+Santorini	"36.396160, 25.458431"	0.3	1	4	
+Naxos	"37.100393, 25.377620"	0.2	3	4	
+Pireas	"37.944147, 23.647353"	0.3	3	2	
+Athens	"37.992666, 23.723965"	0.11	1	1	
+Bangkok	"13.713979, 100.458853"	0.3	0	2	
+Ayutthaya	"14.356105, 100.558846"	0.3	1	2	
+Bangkok	"13.713979, 100.458853"	0.3	3	3	
+Pattaya	"12.927175, 100.884648"	-0.45	1	3	
+Bangkok	"13.713979, 100.458853"	0.3	3	1	
+Hong Kong	"22.284571, 114.174567"	0.3	0	1	
+Jakarta	"-6.137955, 106.848977"	0.3	0	2	
+Yogyakarta	"-7.795936, 110.367806"	0.3	0	1	
+Legian Beach	"-8.690428, 115.165539"	0.1	0	1	
+Sydney	"-33.939914, 151.175287"	0.3	3	1	
+Canberra	"-35.355434, 149.066050"	0.3	3	0	

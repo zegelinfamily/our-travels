@@ -1,0 +1,12 @@
+Location	LatLong	Curvature	Stop	Mode	Notes
+Canberra	-35.355434, 149.066050	0.3	2	0	
+Sydney	-33.939914, 151.175287	0.05	2	1	
+Auckland	-36.849507, 174.752834	0.3	2	0	
+Waitomo Caves	-38.261466, 175.118129	0.3	1	0	Glowworm Caves
+Taupo	-38.687216, 176.067073	0.3	1	0	Volcanic National Park, Craters of the Moon
+Rotorua	-38.137356, 176.249721	0.3	0	0	
+Tauranga	-37.690984, 176.156337	0.3	1	0	
+Coromandel	-36.819830, 175.618007	0.3	1	0	
+Auckland	-36.849507, 174.752834	0.05	0	1	
+Sydney	-33.939914, 151.175287	0.3	3	0	
+Canberra	-35.355434, 149.066050	0.0	3	0	
