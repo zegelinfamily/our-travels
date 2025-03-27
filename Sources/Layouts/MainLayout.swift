@@ -29,7 +29,7 @@ struct TripFooter: HTML {
             }
             Text {
                 "&nbsp;| Source Code for this site is at "
-                Link("GitHub ", target: URL(static: "https://github.com/zegelinfamily/"))
+                Link("GitHub ", target: URL(static: "https://github.com/zegelinfamily/our-travels"))
             }
         }.class("d-flex justify-content-center")  /// 'bootstrap' - place side by side
         .margin(.small)
