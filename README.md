@@ -4,7 +4,7 @@ This Xcode package creates a website to display our travels using the [Ignite](h
 
 The actual map is displayed using the [leaflet javascript library](https://leafletjs.com), with a few add ons to draw the curves, labels, zoom controls and to handle label collision. Label collision hides overlapping labels, showing the label with the higher priority, which is based on the Stop Type.
 
-An example website can be found [here](https://zegelin.com/ourtravels/index.html).
+An example website can be found [here](https://zegelin.com/peter).
 
 After making any changes or adding a new trip the website is rebuilt via the Run command '⌘ R'. Note that Ignite is still in Alpha so this package may not build unless Ingite v0.5.0 is used.
 
@@ -13,16 +13,16 @@ Requires 2 files, with an optional image file to display on the front page. The 
 
 1. **Trip Markdown**
    - Format: YAML configuration header and optional blurb to be displayed on trip page
-   - Location: `Content/`
+   - Location: `Content/trips
    - Naming: `[YYYY]_[trip_name].md` (NO SPACES! - Use '_')
    
 2. **Stops Data**
    - Format: Tab-separated (.tsv) spreadsheet
-   - Location: `Resources/Trip/`
+   - Location: `Resources/trips`
    - Naming: `[YYYY] [trip name].tsv`
    
 3. **Image**
-   - Location: `Assets/images/`
+   - Location: `Assets/ourtravels/images/`
    - Naming: [YYYY] [trip name].jpg (Match .tsv filename)
 
 
@@ -58,7 +58,7 @@ See one of the trips .tsv files for an example.
 - Mode
 - Notes - unused but will eventually show on the trip sidebar as an info symbol and on the map as a label containing the note text
 
-**Do not add more columns and do not rename.**
+*NOTE: Do not add more columns and do not rename.*
 
 #### Data Guidelines
 - Use Numbers spreadsheet application or a spreadsheet app that will export tab-delimited.
