@@ -35,9 +35,9 @@ title: "Trip Card Name"
 subtitle: "Trip Page Name"  			# Optional, defaults to title
 date: "YYYY-MM-DD"          			# Start date, only year is displayed
 endDate: "YYYY-MM-DD"      				# Optional, end date is used for duration calculations
-days: Integer                    		# Optional, use if dates unknown
-image: "[YYYY] [trip name].jpg" 		# Optional, else you will get a white rectangle. Size 350W x 233H
-tsv: "[YYYY] [trip name].tsv"  			# Required stops file
+days: Integer                    	# Optional, use if dates unknown
+image: "[YYYY] [trip name].jpg" 	# Optional, else you will get a white rectangle. Size 350W x 233H
+tsv: "[YYYY] [trip name].tsv"  		# Required stops file
 excursions: [(idx,idx),(idx,idx)]       # Optional excursions list - see below
 mapbounds: [lat1, long1], [lat2, long2] # Initial map bounding box
 ---

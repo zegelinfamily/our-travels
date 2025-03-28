@@ -15,7 +15,7 @@ struct IgniteWebsite {
 }
 
 
-let subsite = ""
+let subsite = "peter"
 
 struct OurTravelSite: Site {
     var name = "Our Trips"
