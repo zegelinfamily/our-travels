@@ -2,7 +2,7 @@
 title: Hawaii
 date: 2005-09-22
 endDate: 2005-10-09
-airfare: 0
+airfare: $790
 tripcost: 0
 image: 2005 Hawaii.jpg
 tsv: 2005 Hawaii.tsv

@@ -3,7 +3,7 @@ title: Greece
 subtitle: Mainland Greece
 date: 2017-05-16
 endDate: 2017-06-27
-airfare: 0
+airfare: $1430  CBR-ABU DHABI-ATHENS-ABU DHABI-CBR  
 tripcost: 0
 image: 2017 Greece.jpg
 tsv: 2017 Greece.tsv

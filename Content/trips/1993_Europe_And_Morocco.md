@@ -2,7 +2,7 @@
 title: Spain, Portugal and Morocco
 date: 1993-10-13
 endDate: 1993-12-07
-airfare: 0
+airfare: $2109    CBR-SYD-PARIS-SYD-CBR
 tripcost: 0
 image: 1993 Europe and Morocco.jpg
 tsv: 1993 Europe and Morocco.tsv

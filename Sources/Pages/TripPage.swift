@@ -56,7 +56,7 @@ struct TripPage: ArticlePage{
             /// Title and blurb
             Section{
                 Section{
-                    Link(Image(systemName: "arrow-left"), target: "/" + subsite)
+                    Link(Image(systemName: "arrow-left", description: "back arrow"), target: "/" + subsite)
                         .font(.title3)
                         .margin(.leading, -33)
                         .margin(.trailing, 5)
@@ -66,6 +66,7 @@ struct TripPage: ArticlePage{
                 Text(article.text)
                     .margin(.top, -15)
             }.class("top-content")
+                .padding(.top, 10)
             
             /// Map and sidebar
             Section{

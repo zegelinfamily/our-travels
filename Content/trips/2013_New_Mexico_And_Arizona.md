@@ -2,7 +2,7 @@
 title: New Mexico and Arizona
 date: 2013-05-20
 endDate: 2013-06-20
-airfare: 0
+airfare: $1170  SYD-SAN JOSE-SYD
 tripcost: 0
 image: 2013 USA.jpg
 tsv: 2013 USA.tsv

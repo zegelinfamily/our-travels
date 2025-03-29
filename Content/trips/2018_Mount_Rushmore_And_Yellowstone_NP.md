@@ -2,7 +2,7 @@
 title: Mount Rushmore and Yellowstone NP
 date: 2018-08-15
 endDate: 2018-09-19
-airfare: 0
+airfare: $975   SYD-SFO-SYD
 tripcost: 0
 image: 2018 USA.jpg
 tsv: 2018 USA.tsv

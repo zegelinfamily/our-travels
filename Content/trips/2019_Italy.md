@@ -2,7 +2,7 @@
 title: Northern Italy
 date: 2019-08-21
 endDate: 2019-09-24
-airfare: 0
+airfare: $1725  CBR-MILAN-CBR
 tripcost: 0
 image: 2019 Italy.jpg
 tsv: 2019 Italy.tsv

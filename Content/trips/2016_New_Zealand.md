@@ -3,7 +3,7 @@ title: New Zealand
 subtitle: North Island New Zealand
 date: 2016-11-12
 endDate: 2016-11-25
-airfare: 0
+airfare: $465   CBR-WEL-CBR
 tripcost: 0
 image: 2016 New Zealand.jpg
 tsv: 2016 New Zealand.tsv

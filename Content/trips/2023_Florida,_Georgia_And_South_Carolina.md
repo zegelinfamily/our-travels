@@ -2,7 +2,7 @@
 title: Florida, Georgia and South Carolina
 date: 2023-04-17
 endDate: 2023-05-26
-airfare: 0
+airfare: $1850  SYD-DALLAS-MIAMI-LA-SYD
 tripcost: 0
 image: 2023 USA.jpg
 tsv: 2023 USA.tsv

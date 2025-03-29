@@ -2,7 +2,7 @@
 title: Phuket and Malacca
 date: 2013-07-21
 endDate: 2013-08-28
-airfare: 0
+airfare: $525   SYD-KL-PHUKET-SYD
 tripcost: 0
 image: 2013 Phuket.jpg
 tsv: 2013 Phuket.tsv

@@ -3,7 +3,7 @@ title: Sri Lanka and Phuket
 subtitle: Sri Lanka, Phuket and Kuala Lumpur
 date: 2012-07-22
 endDate: 2012-09-04
-airfare: 0
+airfare: $700   SYD-KL-COLOMBO-KL-PHUKET-SYD
 tripcost: 0
 image: 2012 Phuket.jpg
 tsv: 2012 Phuket.tsv

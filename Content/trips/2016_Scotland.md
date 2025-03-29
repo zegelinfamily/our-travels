@@ -2,7 +2,7 @@
 title: Scotland
 date: 2016-05-16
 endDate: 2016-06-18
-airfare: 0
+airfare: $1630  SYD-DOHA-EDINBURGH-DOHA-SYD
 tripcost: 0
 image: 2016 Scotland.jpg
 tsv: 2016 Scotland.tsv

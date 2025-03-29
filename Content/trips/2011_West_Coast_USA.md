@@ -3,7 +3,7 @@ title: West Coast USA
 subtitle: San Francisco to Seattle with a side trip to Yellowstone National Park
 date: 2011-05-11
 endDate: 2011-06-09
-airfare: 0
+airfare: $1324  SYD-SAN JOSE-SYD
 tripcost: 0
 image: 2011 USA.jpg
 tsv: 2011 USA.tsv
