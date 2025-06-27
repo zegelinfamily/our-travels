@@ -3,10 +3,10 @@ import Ignite
 
 
 struct MainLayout: Layout {
-    var body: some HTML {
+    var body: some Document {
         Head{
             /// Add css for the trip page layout
-            MetaLink(href: "/ourtravels/css/trip.css", rel: .stylesheet)
+            MetaLink(href: "css/trip.css", rel: .stylesheet)
         }
         Body {
             content

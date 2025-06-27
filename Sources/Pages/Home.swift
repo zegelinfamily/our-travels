@@ -9,7 +9,7 @@ struct Home: StaticPage{
     var body: some HTML{
         Section{
             Text("Our Travels").horizontalAlignment(.center).font(.title1)
-            ThemeSwitcher().style(.marginTop, "-42px")
+           // ThemeSwitcher().style(.marginTop, "-42px")
             Text{
                 Link("zegelin.com", target: "/")
                     .style(.textDecoration, "none")
@@ -19,7 +19,7 @@ struct Home: StaticPage{
             Text("""
                 One of Chris's and my great loves is travelling, and over the years we've managed to do quite a bit of it! Keeping track of all our trips using a large paper map of the world would be completely impractical by now, so I came up with the idea of a website where each trip could be shown separately. The result is what you see here. It isn't quite finished yet, with some trips missing, and a list of improvements that could be made, but I had to start somewhere so it is what it is.
                 """).style(.marginTop, "20px")
-            Text("Click on an image to see the trip map!").horizontalAlignment(.center).font(.title5)
+            Text("Best viewed on a Desktop or Tablet. Click on an image to see the trip map!").horizontalAlignment(.center).font(.title5)
         }.padding(.top, 20)
         
         Section{
@@ -33,7 +33,7 @@ struct Home: StaticPage{
 
                 Section{
                     Link(target: content.path) {
-                        Image("/ourtravels/images/\(image)", description: content.imageDescription)
+                        Image("/images/\(image)", description: content.imageDescription)
                             .frame(width: 280)
                             .margin(12)
                     }

@@ -60,19 +60,6 @@ html, body{
     color: black;
 }
 
-
-@media (prefers-color-scheme: light) {
-  .listItem.hover{
-    background-color: #444;
-    color: white;
-  }
-    
-  body{
-      background: url(/ourtravels/noise_light-grey.jpg);
-  }
-}
-
-
 /* map fills whole div */
 
 #map {

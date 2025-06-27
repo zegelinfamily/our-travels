@@ -35,10 +35,10 @@ func drawExcursions(excursions: [(Int, Int)]) ->String{
         text += """
             // Start a new Path
             ctx.beginPath();
-            ctx.moveTo(27, \(excursion.0 * 27 + 2));
-            ctx.lineTo(20, \(excursion.0 * 27 + 2));
-            ctx.lineTo(20, \(excursion.1 * 27 - 5));
-            ctx.lineTo(27, \(excursion.1 * 27 - 5));
+            ctx.moveTo(27, \(excursion.0 * 27 + 4));
+            ctx.lineTo(20, \(excursion.0 * 27 + 4));
+            ctx.lineTo(20, \(excursion.1 * 27 - 1));
+            ctx.lineTo(27, \(excursion.1 * 27 - 1));
             
             // Draw the Path
             ctx.stroke();

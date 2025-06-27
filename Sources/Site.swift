@@ -15,7 +15,7 @@ struct IgniteWebsite {
 }
 
 
-let subsite = "peter"
+let subsite = ""
 
 struct OurTravelSite: Site {
     var name = "Our Trips"
@@ -28,6 +28,8 @@ struct OurTravelSite: Site {
 
     var homePage = Home()
     var layout = MainLayout()
+    
+    var lightTheme: (any Theme)? = nil
     
     var articlePages: [any ArticlePage] {
         TripPage()

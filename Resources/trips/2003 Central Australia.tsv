@@ -2,11 +2,16 @@ Location	LatLong	Curvature	Stop	Mode	Notes
 Canberra	-35.355434, 149.066050	0.3	2	0	
 Sydney	-33.939914, 151.175287	0.05	2	1	
 Alice Springs	-23.700591, 133.879202	-0.3	0	3	
+Simpsons Gap	-23.673757, 133.723026	0.3	1	3	
+Standley Chasm	-23.720284, 133.468967	0.3	1	3	
+Ellery Creek Big Hole	-23.776850, 133.073460	0.3	1	3	
+Glen Helen Gorge	-23.687591, 132.676578	-0.3	1	3	
 Hermannsburg	-23.943338, 132.777007	0.3	1	3	
-Finke Gorge National Park	-24.189380, 132.823785	-0.3	1	3	Palm Valley
+Finke Gorge National Park	-24.189380, 132.823785	0.1	1	3	Palm Valley
 Alice Springs	-23.700591, 133.879202	0.3	3	0	
+Mount Connor Lookout	-25.305090, 131.939441	0.3	1	0	
 Yulara	-25.241067, 130.984817	0.3	0	0	
-Uluru	-25.342261, 131.036490	0.3	1	0	
+Ayers Rock	-25.342261, 131.036490	0.3	1	0	
 Yulara	-25.241067, 130.984817	0.3	3	0	
 Olgas	-25.312470, 130.770071	0.3	1	0	
 Yulara	-25.241067, 130.984817	0.3	3	0	
