@@ -5,32 +5,35 @@ import Ignite
 struct TripLayout: Layout {
     var body: some Document {
         Head{
+            /// Add css for the trip page layout
+            MetaLink(href: "\(subsite)/css/peter.css", rel: .stylesheet)
+            
             /// Add leaflet
-            MetaLink(href: "/css/leaflet.css", rel: .stylesheet)
-            Script(file: "/leaflet/leaflet.js")
+            MetaLink(href: "\(subsite)/map/css/leaflet.css", rel: .stylesheet)
+            Script(file: "\(subsite)/map/leaflet/leaflet.js")
             
             /// Add leaflet plugin to create bezier curves
-             Script(file: "/leaflet/leaflet.curve.js")
+             Script(file: "\(subsite)/map/leaflet/leaflet.curve.js")
                             
             /// Add a zoombar
-            MetaLink(href: "/zoombar/L.Control.ZoomBar.css", rel: .stylesheet)
-            Script(file: "/zoombar/L.Control.ZoomBar.js")
+            MetaLink(href: "\(subsite)/map/zoombar/L.Control.ZoomBar.css", rel: .stylesheet)
+            Script(file: "\(subsite)/map/zoombar/L.Control.ZoomBar.js")
             
             /// Add a navbar - gives forward and back buttons through navigation history
-            MetaLink(href: "/navbar/Leaflet.NavBar.css", rel: .stylesheet)
-            Script(file: "/navbar/Leaflet.NavBar.js")
-            
+            MetaLink(href: "\(subsite)/map/navbar/Leaflet.NavBar.css", rel: .stylesheet)
+            Script(file: "\(subsite)/map/navbar/Leaflet.NavBar.js")
+
             /// Add css for the map labels
-            MetaLink(href: "/css/labels.css", rel: .stylesheet)
+            MetaLink(href: "\(subsite)/map/css/labels.css", rel: .stylesheet)
             /// Add css for the map legend
-            MetaLink(href: "/css/legend.css", rel: .stylesheet)
-            
+            MetaLink(href: "\(subsite)/map/css/legend.css", rel: .stylesheet)
+
             /// Add layer collision
-            Script(file: "/label-collision/rbush.js")
-            Script(file: "/label-collision/Leaflet.LayerGroup.Collision.js")
-            
+            Script(file: "\(subsite)/map/label-collision/rbush.js")
+            Script(file: "\(subsite)/map/label-collision/Leaflet.LayerGroup.Collision.js")
+
             /// Add css for the trip page layout
-            MetaLink(href: "/css/trip.css", rel: .stylesheet)
+            MetaLink(href: "\(subsite)/map/css/trip.css", rel: .stylesheet)
         }
         Body {
             Section{

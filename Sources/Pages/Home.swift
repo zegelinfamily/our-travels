@@ -9,7 +9,6 @@ struct Home: StaticPage{
     var body: some HTML{
         Section{
             Text("Our Travels").horizontalAlignment(.center).font(.title1)
-           // ThemeSwitcher().style(.marginTop, "-42px")
             Text{
                 Link("zegelin.com", target: "/")
                     .style(.textDecoration, "none")
@@ -33,7 +32,7 @@ struct Home: StaticPage{
 
                 Section{
                     Link(target: content.path) {
-                        Image("/images/\(image)", description: content.imageDescription)
+                        Image("\(subsite)/images/\(image)", description: content.imageDescription)
                             .frame(width: 280)
                             .margin(12)
                     }
@@ -61,22 +60,6 @@ struct Home: StaticPage{
     }
 }
 
-
-
-struct ThemeSwitcher: HTML {
-    @Environment(\.themes) private var themes
-
-    var body: some HTML {
-        Section{
-            ForEach(themes) { theme in
-                Button(theme.name) {
-                    SwitchTheme(theme)
-                }.style(.color, "#aaa")
-            }
-        }.horizontalAlignment(.trailing)
-        
-    }
-}
 
 
 /// Calculate days between two dates, adding 2 for beginning and end.

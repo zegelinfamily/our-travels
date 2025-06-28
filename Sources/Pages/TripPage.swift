@@ -51,12 +51,13 @@ struct TripPage: ArticlePage{
         let markers = mapMarkers(stops: stops)
         let legendAndMapControls = legendAndMapControls(data: decode.data(forResource: "legend.svg")!)
         let labels = addLabels(stops: stops)
+        let target = subsite == "" ? "/" : subsite
         
         Section{
             /// Title and blurb
             Section{
                 Section{
-                    Link(Image(systemName: "arrow-left", description: "back arrow"), target: "/" + subsite)
+                    Link(Image(systemName: "arrow-left", description: "back arrow"), target: target)
                         .font(.title3)
                         .margin(.leading, -33)
                         .margin(.trailing, 5)

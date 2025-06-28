@@ -6,7 +6,7 @@ The actual map is displayed using the [leaflet javascript library](https://leafl
 
 An example website can be found [here](https://zegelin.com/peter).
 
-After making any changes or adding a new trip the website is rebuilt via the Run command '⌘ R'. Note that Ignite is still in Alpha so this package may not build unless Ingite v0.5.0 is used.
+After making any changes or adding a new trip the website is rebuilt via the Run command '⌘ R'. Note that Ignite is still in Alpha so this package may not build unless Ingite v0.7-beta is used.
 
 ## Adding a New Trip
 Requires 2 files, with an optional image file to display on the front page. The location specifies where the file should be placed within this package. See an example trip for a better understanding.
@@ -98,7 +98,7 @@ The excursions YAML lets you show excursions from a location where you stayed an
 
 Trips segments that cross the International Date Line need special handling. This is best explained via an example:
 
-If you view the 1980 Europe and Kenya.tsv file you will see that the longitude for the start of the trip at Sydney is  151.175287° and the first stop in London is -0.129757°. This causes the curve joining the two locations to be how you would expect, flying over Asia to London. However, if you examine the latitude for Sydney in the 1997 USA.tsv file, you will see it is  -210.93395°. This also draws the curve as you would expect, but in the opposite direction, flying over the Pacific Ocean to Auckland and on to L.A. Note that the longitude for Auckland also has to be adjusted in this map. If we were just flying from Australia to New Zealand and back there would be no need to adjust the longitude values.
+If you view the 1980 Europe and Kenya.tsv file you will see that the longitude for the start of the trip at Sydney is 151.175287° and the first stop in London is -0.129757°. This causes the curve joining the two locations to be how you would expect, flying over Asia to London. However, if you examine the latitude for Sydney in the 1997 USA.tsv file, you will see it is  -210.93395°. This also draws the curve as you would expect, but in the opposite direction, flying over the Pacific Ocean to Auckland and on to L.A. Note that the longitude for Auckland also has to be adjusted in this map. If we were just flying from Australia to New Zealand and back there would be no need to adjust the longitude values.
 
 The value of -210.93395° for Sydney in the second example is calculated by subtracting 360° from the actual longitude of 151.175287°.
 

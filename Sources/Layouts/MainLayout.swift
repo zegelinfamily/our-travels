@@ -6,7 +6,7 @@ struct MainLayout: Layout {
     var body: some Document {
         Head{
             /// Add css for the trip page layout
-            MetaLink(href: "css/trip.css", rel: .stylesheet)
+            MetaLink(href: "\(subsite)/css/peter.css", rel: .stylesheet)
         }
         Body {
             content
