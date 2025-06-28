@@ -1,12 +1,12 @@
 # Travel Route Mapping
 
-This Xcode package creates a website to display our travels using the [Ignite](https://github.com/twostraws/Ignite) static website builder. By placing a few files in the proper locations within this package and rebuilding the website, a new trip can be added to the website. This will show a new trip on the front page, with the latest trip at the top. Clicking on the trip image will take you to a trip page showing a map with with a sidebar list of all the locations visited.
+This Xcode package creates a website to display our travels using the [Ignite](https://github.com/twostraws/Ignite) static website builder. By placing a few files in the proper locations within this package and rebuilding the project, a new trip can be added to the website. This will show a new trip on the front page, with the latest trip at the top. Clicking on the trip image will take you to a trip page showing a map with with a sidebar list of all the locations visited.
 
 The actual map is displayed using the [leaflet javascript library](https://leafletjs.com), with a few add ons to draw the curves, labels, zoom controls and to handle label collision. Label collision hides overlapping labels, showing the label with the higher priority, which is based on the Stop Type.
 
 An example website can be found [here](https://zegelin.com/peter).
 
-After making any changes or adding a new trip the website is rebuilt via the Run command '⌘ R'. Note that Ignite is still in Alpha so this package may not build unless Ingite v0.7-beta is used.
+After making any changes or adding a new trip the website is rebuilt via the Run command '⌘ R'. Note that Ignite is still in Alpha so this package may not build unless Ignite v0.7-beta is used. The package manifest has been modified to specifically use this version of Ignite.
 
 ## Adding a New Trip
 Requires 2 files, with an optional image file to display on the front page. The location specifies where the file should be placed within this package. See an example trip for a better understanding.
@@ -103,5 +103,24 @@ If you view the 1980 Europe and Kenya.tsv file you will see that the longitude f
 The value of -210.93395° for Sydney in the second example is calculated by subtracting 360° from the actual longitude of 151.175287°.
 
 By manually tweaking the longitude of some locations you can usually get the curve to draw in the desired direction. The only situation where there could be a problem is if a trip goes 'around the world'. In this case you have to figure out where you want the map to break and put two values for the location there. This is best seen in the 1986 Around The World.tsv where there are 2 values for Honolulu and a value of 100 for the mode of travel between the two. This mode of travel prevents a curve from being drawn between the 'two' Honolulu's. If you change the mode of travel to anything visible - say 1 - then you will see a curve connecting Honolulu to itself by stretching from one side of the map to the other.
+
+## Uploading to a Website.
+
+The Site.swift file has a global variable 'subsite' which can be used to add this project to an existing website but keep it as a seperate project. There may be a better way but I haven't managed to find it.
+
+The following is for our family website zegelin.com, hosted at Github, but should be similar for other websites.
+
+To make this a sub-site of zegelin.com you need to do the following:
+    Build the website setting var subsite in Site.swift to ‘/name-of-subsite’ - leave blank for local build
+    Find the resulting Build folder and within it move the trips folder from Build/name-of-subsite to Build
+    Delete the name-of-subsite folder
+    Copy the resulting Build folder to eg: zegelinfamily.github.io and change its name to “name-of-subsite”
+    Upload zegelinfamily.github.io to GitHub.
+        Alternatively just replace name-of-subsite directory on Github directly.
+
+## Bugs:
+
+Dark mode doesn’t work on Firefox?
+Maps don’t show properly on mobile phone
 
 
