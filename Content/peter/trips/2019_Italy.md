@@ -6,7 +6,7 @@ airfare: $1725  CBR-MILAN-CBR
 tripcost: 0
 image: 2019 Italy.jpg
 tsv: 2019 Italy.tsv
-excursions: [(5,6),(6,7),(7,8),(10,13)]
+excursions: [(5,6),(6,7),(7,8),(10,13),(19,20),(20,23),(23,26),(26,27)]
 mapbounds: [45.916432,8.009933],[43.820322,12.613606]
 ---
 

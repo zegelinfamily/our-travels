@@ -89,6 +89,7 @@ See one of the trips .tsv files for an example.
 - `5`: Campervan
 - `6`: Motorbike
 - `7`: Cablecar
+- `8`: Walk 
 
 #### Excursions list
 
@@ -106,7 +107,7 @@ By manually tweaking the longitude of some locations you can usually get the cur
 
 ## Uploading to a Website.
 
-The Site.swift file has a global variable 'subsite' which can be used to add this project to an existing website but keep it as a seperate project. There may be a better way but I haven't managed to find it.
+The Site.swift file has a global variable 'subsite' which can be used to add this project to an existing website but keep it as a seperate project. There may be a better way to do this but I haven't managed to find it.
 
 The following is for our family website zegelin.com, hosted at Github, but should be similar for other websites.
 

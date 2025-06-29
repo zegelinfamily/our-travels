@@ -12,6 +12,7 @@ enum TransportModes: String, CaseIterable{
     case campervan = "F032E6"
     case motorbike = "9A6324"
     case cablecar = "42D4F4"
+    case walk = "1aff89ff"
 }
 
 

@@ -1,30 +1,32 @@
-"Location"	"LatLong"	"Curvature"	"Stop"	"Mode"	"Notes"
-Canberra
-Kinglake
-Great Ocean Road
-Torquay 	visit
-Anglesea	visit
-Aireys Inlet  Split Point Lighthouse and Lookout
-Angahook   	Erskine falls
-Lorne  waypoint overnight
-Carisbrook Falls
-Appollo Bay lunch
-Otway National park	Maits Rwest Boardwalk and Cape Otway Lighthouse, Hopetown falls
-Melba gully State park - Madsens Track rainforest Walk
-Port Campell National park	12 Apostles, helicopter ride, Loch Ard Gorge
-Port campbell
-Bay of Islands Coastal park
-Warrnambool - waypoint overnight
-Tiower Hill Reserve
-Port fairy
-The Craigs
-Codrington wind farm
-Portland - waypt
-Nelson - waypt
-Princess Margaret Rose Cave
-Mount Gambia
-Penola - pettycoat Lane + Sharam's Cottage
-Coonawarra
-Naracoorte Caves National Park -	Victoria Fossil Cave, Alexandra Cave, Wet cave
-Sheparton
-Canberra
+Location	LatLong	Curvature	Stop	Mode	Notes
+Canberra	"-35.268152, 149.129653"	-0.2	2	0	
+Kinglake	"-37.532513, 145.343591"	-0.3	0	0	
+Torquay 	"-38.313822, 144.318489"	-0.3	1	0	
+Anglesea	"-38.406968, 144.186653"	-0.3	1	0	
+Aireys Inlet	"-38.456665, 144.108662"	-0.2	1	0	
+Split Point Lighthouse and Lookout	"-38.469068, 144.105068"	-0.3	1	0	
+Erskine falls   	"-38.505904, 143.913369"	0.3	1	0	
+Lorne	"-38.536317, 143.974156"	-0.3	2	0	
+Carisbrook Falls	"-38.692444, 143.810048"	-0.3	1	0	
+Apollo Bay	"-38.753526, 143.670301"	-0.3	1	0	
+Maits Rest Rainforest Walk	"-38.757146, 143.555226"	0.3	1	0	
+Cape Otway Lighthouse	"-38.853810, 143.513032"	0.3	1	0	
+Hopetoun Falls	"-38.664990, 143.566212"	-0.3	1	0	
+Melba Gully State Park	"-38.697640, 143.368008"	0.2	1	0	Madsens Track rainforest Walk
+12 Apostles	"-38.664319, 143.104040"	-0.3	1	0	Helicopter ride
+Loch Ard Gorge	"-38.646562, 143.070515"	-0.3	1	0	Tom and Eva Lookout
+Port Campbell	"-38.618974, 142.995936"	-0.2	1	0	
+Bay of Islands Coastal Park	"-38.491654, 142.684035"	-0.2	1	0	
+Warrnambool	"-38.371306, 142.496617"	-0.3	2	0	
+Tower Hill Wildlife Reserve	"-38.317724, 142.364343"	-0.3	1	0	
+Port Fairy	"-38.379486, 142.227525"	0.2	1	0	
+Codrington Wind Farm	"-38.266907, 141.978612"	-0.4	1	0	
+Portland	"-38.359749, 141.602860"	-0.2	2	0	
+Nelson	"-38.044060, 141.010765"	0.3	2	0	
+Princess Margaret Rose Cave	"-37.988315, 140.990385"	0.3	1	0	
+Mount Gambier	"-37.826908, 140.783110"	0.2	1	0	
+Penola	"-37.373998, 140.835158"	-0.3	1	0	"Pettycoat Lane, Sharam’s Cottage"
+Coonawarra	"-37.292769, 140.830869"	0.3	1	0	
+Naracoorte Caves National Park	"-37.027915, 140.797910"	0.15	1	0	"Victoria Fossil Cave, Alexandra Cave, Wet Cave"
+Shepparton	"-36.368999, 145.402950"	0.2	2	0	
+Canberra	"-35.268152, 149.129653"	0.3	2	0	

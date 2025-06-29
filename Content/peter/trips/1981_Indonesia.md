@@ -6,6 +6,7 @@ airfare: 0
 tripcost: 0
 image: 1981 Indonesia.jpg
 tsv: 1981 Indonesia.tsv
+excursions: [(4,11)]
 mapbounds: [3.432756,95.258512],[-10.725781,123.803121]
 ---
 
