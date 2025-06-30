@@ -112,7 +112,7 @@ The Site.swift file has a global variable 'subsite' which can be used to add thi
 The following is for our family website zegelin.com, hosted at Github, but should be similar for other websites.
 
 To make this a sub-site of zegelin.com you need to do the following:
--   Build the website setting var subsite in Site.swift to ‘/name-of-subsite’ - leave blank for local build
+-   Build the website after setting var subsite in Site.swift to ‘/name-of-subsite’ - leave blank for local build
 -   Find the resulting Build folder and within it move the trips folder from Build/name-of-subsite to Build
 -   Delete the name-of-subsite folder
 -   Copy the resulting Build folder to eg: zegelinfamily.github.io and change its name to “name-of-subsite”
