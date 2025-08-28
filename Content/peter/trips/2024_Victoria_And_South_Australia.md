@@ -8,4 +8,4 @@ excursions: [(10,13)]
 mapbounds: [-33.150578,135.734272],[-39.115619,149.771439]
 ---
 
-Just a quick trip to Adelaide and Kinglake to visit family. On the way we stopped at the Barossa Valley and visited the wonderful Dali exhibition at the D'Arenberg Winery in McLaren Vale. We also spent a few days at Halls Gap in the Grampians, visiting the beautiful waterfalls and lookouts in the area.
+Just a quick trip to Adelaide and Kinglake to visit family. On the way we stopped at the Barossa Valley and visited the wonderful Dali exhibition at the D'Arenberg Winery in McLaren Vale. We also spent a few days at Halls Gap in the Grampians, checking out the beautiful waterfalls and lookouts in the area.

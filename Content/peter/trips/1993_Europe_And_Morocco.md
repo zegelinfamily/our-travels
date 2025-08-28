@@ -6,7 +6,7 @@ airfare: $2109    CBR-SYD-PARIS-SYD-CBR
 tripcost: 0
 image: 1993 Europe and Morocco.jpg
 tsv: 1993 Europe and Morocco.tsv
-excursions: [(3,7)]
+excursions: [(3,7),(28,31)]
 mapbounds: [50.576436,-28.866861],[28.047425,25.016038]
 ---
 

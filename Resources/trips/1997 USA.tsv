@@ -5,22 +5,36 @@ Auckland	"-37.008110, -185.214953"	0.05	2	1
 Los Angeles	"33.943476, -118.409313"	0.3	0	0	
 San Juan Capistrano	"33.500354, -117.662747"	0.3	1	0	
 Los Angeles	"33.943476, -118.409313"	-0.3	3	0	
+Long Beach	"33.761209, -118.191089"	-0.3	1	0	Queen Mary
+Los Angeles	"33.943476, -118.409313"	-0.3	3	0	
 Solvang	"34.594689, -120.142658"	-0.3	1	0	
 Hearst Castle	"35.685593, -121.170212"	-0.3	1	0	
 San Jose	"37.337343, -121.897069"	0.2	0	0	
 Yosemite National Park	"37.856094, -119.556891"	0.3	1	0	
 Mono Lake	"37.964443, -119.114692"	-0.3	1	0	
 Death Valley National Park	"36.516135, -117.095850"	-0.3	1	0	
-Las Vegas	"36.168798, -115.167749"	0.3	0	0	
-Valley of Fire National Park	"36.449885, -114.522302"	0.3	1	0	
-Zion National Park	"37.311076, -113.033655"	0.3	1	0	
+Las Vegas	"36.168798, -115.167749"	0.2	0	0	
+Valley of Fire National Park	"36.449885, -114.522302"	0.2	1	0	
+St. George	"37.078601, -113.584171"	-0.2	2	0	
+Zion National Park	"37.464344, -113.204117"	0.3	1	0	
+Cedar City	"37.680944, -113.080177"	-0.3	2	0	
 Bryce Canyon National Park	"37.593461, -112.180975"	-0.3	1	0	
 Kodachrome Basin State Park	"37.517893, -111.994473"	0.3	1	0	
-Capital Reef National Park	"38.382976, -111.275727"	0.3	1	0	
+Capitol Reef National Park	"38.382976, -111.275727"	0.3	1	0	
 Natural Bridges National Monument	"37.601537, -110.008742"	0.3	1	0	
-Monument Valley	"37.002636, -110.174621"	0.3	1	0	
-Grand Canyon North Rim	"36.250449, -112.074569"	0.2	1	0	
-Las Vegas	"36.168798, -115.167749"	0.3	2	0	
+Blanding	"37.625574, -109.478230"	0.3	2	0	
+Moki Dugway Scenic Backway	"37.274042, -109.936995"	0.3	2	0	
+Mexican Hat	"37.151031, -109.867795"	0.3	2	0	
+Monument Valley	"37.067768, -110.045142"	0.3	1	0	
+Glen Canyon Dam	"36.935517, -111.483356"	0.3	1	0	Lake Powell
+Pahreah Townsite	"37.252136, -111.944502"	-0.3	1	0	Old town now used as a movie set
+Kanab	"37.049288, -112.532374"	0.3	2	0	
+Grand Canyon North Rim	"36.250449, -112.074569"	0.3	1	0	
+Point Imperial	"36.279047, -111.977813"	-0.2	1	0	
+Cape Royal	"36.117462, -111.949335"	-0.2	1	0	
+Grand Canyon North Rim	"36.250449, -112.074569"	-0.3	3	0	
+St. George	"37.078601, -113.584171"	-0.2	2	0	
+Las Vegas	"36.168798, -115.167749"	0.2	2	0	
 Los Angeles	"33.943476, -118.409313"	0.05	2	1	
 Auckland	"-37.008110, -185.214953"	0.1	2	1	
 Sydney	"-33.939914, -208.824713"	0.3	2	1	
