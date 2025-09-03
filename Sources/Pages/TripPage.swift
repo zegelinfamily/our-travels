@@ -29,6 +29,7 @@ struct CSVStop: Codable {
 
 struct TripPage: ArticlePage{
     @Environment(\.decode) var decode
+    @Environment(\.site) var site
     
     var layout = TripLayout()
     

@@ -122,6 +122,6 @@ To make this a sub-site of zegelin.com you need to do the following:
 ## Bugs:
 
 -   Dark mode doesn’t work on Firefox?
--   Maps don’t show properly on mobile phone
+-   Maps don’t show properly on mobile phone 
 
 
