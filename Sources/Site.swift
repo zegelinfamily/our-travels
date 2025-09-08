@@ -16,8 +16,8 @@ struct IgniteWebsite {
 
 
 /// - the folllowing changes the path of css and some content etc. Do a global Find to see where it is used
-let subsite = "" /// for localhost:8000
-//let subsite = "/peter" /// when subsite of zegelin.com
+//let subsite = "" /// for localhost:8000
+let subsite = "/peter" /// when subsite of zegelin.com
 
 struct OurTravelSite: Site {
     var name = "Our Trips"
