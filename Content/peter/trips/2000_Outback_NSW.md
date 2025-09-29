@@ -7,5 +7,5 @@ airfare: 0
 tripcost: 0
 image: 2000 Outback NSW.jpg
 tsv: 2000 Outback NSW.tsv
-mapbounds: [-24.442603,137.634421],[-37.101845,164.518208]
+mapbounds: [-26.074773, 146.911748],[-36.186434, 154.166394]
 ---
